@@ -3,8 +3,8 @@
  * @author Wolfgang Klopf
  */
 
-(function() {
+(function(win) {
 	
 	
 	
-})();
+})(window);
