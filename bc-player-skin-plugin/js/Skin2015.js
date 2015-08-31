@@ -3,7 +3,7 @@
  * @author Wolfgang Klopf
  */
 
-(function(win) {
+(function(wins) {
 	
 	
 	
