@@ -5,6 +5,6 @@
 
 (function(win) {
 	
-	console.log("");
+	console.log("hallo world");
 	
 })(window);
